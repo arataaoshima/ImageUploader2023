@@ -8,7 +8,7 @@ gem 'dotenv-rails'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails', branch: 'main'
 
 # Use sqlite3 as the database for Active Record
-  gem 'rails', '~> 6.0.6', '>= 6.0.6.1'
+gem 'rails', '~> 6.0.6', '>= 6.0.6.1'
 
 # Use Puma as the app server
 gem 'puma', '~> 4.1'
